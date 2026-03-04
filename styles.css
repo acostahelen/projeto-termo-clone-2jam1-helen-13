@@ -49,7 +49,7 @@ h1 {
     font-size: 2rem;
     font-weight: bold;
     background-color: #5e53533a;
-    border: 2px solid #000000;
+    border: 2px solid #e7a854;
     border-radius: 4px;
     text-transform: uppercase;
     transition: all 0.3s ease;
@@ -158,7 +158,7 @@ h1 {
 }
 
 .modal-content {
-    background-color: #534442;
+    background-color: #92807d;
     margin: 10% auto;
     padding: 20px;
     border-radius: 8px;
