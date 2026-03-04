@@ -49,7 +49,7 @@ h1 {
     font-size: 2rem;
     font-weight: bold;
     background-color: #5e53533a;
-    border: 2px solid #ddd;
+    border: 2px solid #000000;
     border-radius: 4px;
     text-transform: uppercase;
     transition: all 0.3s ease;
